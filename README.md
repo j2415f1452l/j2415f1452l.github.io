@@ -33,7 +33,7 @@ Love exploring open source projects and building interesting stuff.
 ---
 
 ### 🎯 技能雷达图
-![Skills Radar](https://github-readme-stats.vercel.app/api/skills?username=j2415f1452l&theme=github_dark&hide_border=true)
+![Skills Radar](https://github-readme-tech-stack.vercel.app/api/cards/skills?username=j2415f1452l&width=600&height=400&theme=github_dark)
 
 ### 📊 技术熟练度进度条
 | 技术栈 | 熟练度 |
