@@ -1,65 +1,63 @@
 # 👋 Hi, I'm j2415f1452l 👋 你好，我是 j2415f1452l
 
 ### 🚀 About Me 🚀 关于我
-A passionate developer learning Python, Node.js and Git.  
+A passionate developer learning Python, Node.js and Git.
 一位热情的开发者，正在学习 Python、Node.js 和 Git。
 
-Love exploring open source projects and building interesting stuff.  
+Love exploring open source projects and building interesting stuff.
 喜欢探索开源项目和制作有趣的东西。
 
 ---
 
-### 🎯 动态打字效果
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=79FF97&width=435&lines=Learning+Python+%26+Node.js;Exploring+Open+Source;Building+Cool+Projects)
+### 📊 GitHub 核心数据（手动更新）
+| 数据类型 | 统计结果 |
+|----------|----------|
+| 公开仓库数 | 2+ |
+| 主要编程语言 | Python、JavaScript |
+| GitHub 贡献 | 持续提交中 📈 |
+| 获星数 | 0+（期待你的 ⭐） |
 
-### 👀 Visitors Count
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=j2415f1452l.j2415f1452l.github.io)
+### 💻 技术栈熟练度
+| 技术领域 | 掌握程度 | 备注 |
+|----------|----------|------|
+| Python | ⭐⭐⭐☆☆ (60%) | 掌握基础语法，能写简单项目 |
+| JavaScript | ⭐⭐☆☆☆ (40%) | 了解前端基础，学习异步编程 |
+| Git/GitHub | ⭐⭐⭐☆☆ (65%) | 熟练使用提交、分支、推送等操作 |
+| Node.js | ⭐⭐☆☆☆ (35%) | 学习环境搭建与 npm 命令 |
+| HTML/CSS | ⭐⭐⭐☆☆ (55%) | 能写基础静态页面 |
 
-### 📊 GitHub Stats（深色/浅色自适应）
-![GitHub Stats Dark](https://github-readme-stats.vercel.app/api?username=j2415f1452l&show_icons=true&theme=github_dark&hide_border=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
-![GitHub Stats Light](https://github-readme-stats.vercel.app/api?username=j2415f1452l&show_icons=true&theme=default&hide_border=true)
-
-### 💻 Top Languages
-![Top Languages Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=j2415f1452l&layout=compact&theme=github_dark&langs_count=6&hide_border=true)
-![Top Languages Light](https://github-readme-stats.vercel.app/api/top-langs/?username=j2415f1452l&layout=compact&theme=default&langs_count=6&hide_border=true)
-
-### 📈 GitHub Contribution Graph
-![Contribution Graph Dark](https://github-readme-activity-graph.vercel.app/graph?username=j2415f1452l&theme=react-dark&hide_border=true)
-![Contribution Graph Light](https://github-readme-activity-graph.vercel.app/graph?username=j2415f1452l&theme=react-light&hide_border=true)
-
-### 🏆 GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=j2415f1452l&theme=dracula&no-frame=true&no-bg=true&margin-w=15)
-
----
-
-### 🎯 技能雷达图
-![Skills Radar](https://github-readme-tech-stack.vercel.app/api/cards/skills?username=j2415f1452l&width=600&height=400&theme=github_dark)
-
-### 📊 技术熟练度进度条
-| 技术栈 | 熟练度 |
-|--------|--------|
-| Python | ⭐⭐⭐☆☆ (60%) |
-| JavaScript | ⭐⭐☆☆☆ (40%) |
-| Git/GitHub | ⭐⭐⭐☆☆ (65%) |
-| Node.js | ⭐⭐☆☆☆ (35%) |
-| HTML/CSS | ⭐⭐⭐☆☆ (55%) |
+### 🎯 技能雷达图（纯文本版）
+| 能力维度 | 评分 |
+|----------|------|
+| 代码编写 | ⭐⭐⭐☆☆ |
+| 开源协作 | ⭐⭐☆☆☆ |
+| 问题排查 | ⭐⭐☆☆☆ |
+| 文档撰写 | ⭐⭐⭐☆☆ |
+| 新技术学习 | ⭐⭐⭐⭐☆ |
 
 ---
 
-### 🚀 Featured Projects
-- [python-fibonacci](https://github.com/j2415f1452l/python-fibonacci) - 斐波那契数列的 Python 实现
-- [github-readme-stats](https://github.com/j2415f1452l/github-readme-stats) - 个人主页统计卡片工具
+### 🏆 我的 GitHub 成就
+- ✅ 完成个人主页搭建与美化
+- ✅ 发布第一个 Python 项目（斐波那契数列实现）
+- ✅ 掌握 Git 基本操作流程
+- 🎯 目标：参与 1 个开源项目贡献
 
-### 🔧 Tech Stack
-- **Languages**: Python, JavaScript, HTML/CSS
-- **Tools**: Git, GitHub, Node.js
-- **Learning**: 持续学习开源协作与后端开发
+### 🚀 Featured Projects 精选项目
+- [python-fibonacci](https://github.com/j2415f1452l/python-fibonacci) - 斐波那契数列的 Python 实现，包含注释与测试用例
+- [github-readme-stats](https://github.com/j2415f1452l/github-readme-stats) - 个人主页统计卡片工具学习笔记
+
+### 🔧 常用开发工具
+- **编辑器**：VS Code（配置 Python/Node.js 插件）
+- **版本控制**：Git + GitHub
+- **终端**：macOS Terminal
+- **学习资源**：官方文档、开源项目源码
 
 ---
 
-### 📫 Connect with Me
+### 📫 Connect with Me 联系我
 - GitHub: [@j2415f1452l](https://github.com/j2415f1452l)
 
 ---
 
-⭐️ From [j2415f1452l](https://github.com/j2415f1452l)
+⭐️ From [j2415f1452l](https://github.com/j2415f1452l) | Last Updated: 2026-01-20
