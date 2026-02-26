@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>个人主页</title>
+  <style>
+    /* 重置默认样式 */
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    body {
+      font-family: "Microsoft Yahei", sans-serif;
+      line-height: 1.6;
+      color: #333;
+      background-color: #f8f9fa;
+      padding: 20px;
+    }
+
+    /* 页面容器 */
+    .container {
+      max-width: 800px;
+      margin: 0 auto;
+      background: white;
+      padding: 30px;
+      border-radius: 10px;
+      box-shadow: 0 0 15px rgba(0,0,0,0.05);
+    }
+
+    /* 标题样式 */
+    h1 {
+      color: #2c3e50;
+      margin-bottom: 20px;
+      text-align: center;
+    }
+
+    h2 {
+      color: #34495e;
+      margin: 15px 0;
+      border-bottom: 2px solid #eee;
+      padding-bottom: 5px;
+    }
+
+    /* 段落和列表样式 */
+    p, li {
+      margin: 10px 0;
+      font-size: 16px;
+    }
+
+    ul {
+      padding-left: 20px;
+    }
+
+    /* 链接样式 */
+    a {
+      color: #3498db;
+      text-decoration: none;
+    }
+
+    a:hover {
+      text-decoration: underline;
+    }
+
+    /* 头像容器：控制位置和间距 */
+    .avatar-container {
+      text-align: center; /* 头像居中显示 */
+      margin: 30px 0; /* 上下留30px间距，避免贴边 */
+    }
+
+    /* 头像图片：控制样式，适配太阳图片 */
+    .avatar {
+      width: 200px; /* 头像宽度，大小适中 */
+      height: 200px; /* 宽高一致，避免变形 */
+      border-radius: 50%; /* 圆形头像，匹配太阳的圆形构图 */
+      border: 4px solid #f0f0f0; /* 浅灰色边框，突出头像 */
+      box-shadow: 0 2px 10px rgba(0, 0, 0, 0.08); /* 轻微阴影，更有层次感 */
+      object-fit: cover; /* 裁剪图片，保证太阳主体完整显示 */
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>我的个人主页</h1>
+
+    <!-- 头像区域（霸气太阳头像） -->
+    <div class="avatar-container">
+      <img src="avatar.jpg" alt="我的太阳头像" class="avatar">
+    </div>
+
+    <h2>关于我</h2>
+    <p>大家好！我是一名编程学习者，正在努力掌握 HTML/CSS/Git 等技能，目标是成为一名优秀的前端开发者。</p>
+
+    <h2>我的技能</h2>
+    <ul>
+      <li>HTML 基础</li>
+      <li>CSS 基础样式</li>
+      <li>Git 版本控制</li>
+      <li>GitHub Pages 部署</li>
+    </ul>
+
+    <h2>联系方式</h2>
+    <p>GitHub：<a href="https://github.com/j2415f1452l/j2415f1452l" target="_blank">我的GitHub仓库</a></p>
+  </div>
+</body>
+</html>
