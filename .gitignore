@@ -1,1 +1,19 @@
+# 忽略 macOS 系统文件
 .DS_Store
+.AppleDouble
+.LSOverride
+Icon
+._*
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+
+# 忽略编辑器缓存文件（可选，防止VS Code等编辑器生成的文件）
+*.swp
+*.swo
+.vscode/
+.idea/
